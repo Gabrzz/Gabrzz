@@ -1,28 +1,59 @@
-# Olá, sou Gabriel 👨💻
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="300" viewBox="0 0 800 300">
+  <style>
+    @keyframes gradient {
+      0% { fill: #4F46E5; }
+      50% { fill: #EC4899; }
+      100% { fill: #4F46E5; }
+    }
+    .name-text {
+      font-family: 'Segoe UI', system-ui;
+      font-weight: 700;
+      animation: gradient 5s ease-in-out infinite;
+    }
+    .tech-icon {
+      transition: transform 0.3s ease;
+    }
+    .tech-icon:hover {
+      transform: translateY(-5px);
+    }
+  </style>
+  
+  <!-- Nome Principal -->
+  <text x="50%" y="40%" text-anchor="middle" font-size="48" class="name-text">
+    Gabriel Silva
+  </text>
 
-## �� Habilidades Técnicas
-**Linguagens e Ferramentas:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-## �� Principais Projetos
-1. **[Nome do Projeto]** - Breve descrição  
-   `Tecnologias:` HTML5, CSS3, JavaScript  
-   [▶️ Demo]() | [📦 Repositório]()
-
-2. **[Nome do Projeto]** - Breve descrição  
-   `Tecnologias:` PHP, MySQL  
-   [▶️ Demo]() | [📦 Repositório]()
-
-## 📊 Estatísticas do GitHub
-<!-- Substitua SEU_USERNAME pelo seu username -->
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula)](https://github.com/SEU_USERNAME)
-
-## 📬 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](LINK_DO_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+  <!-- Ícones de Tecnologias -->
+  <g transform="translate(100, 150)">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" >
+      <image class="tech-icon" x="0" y="0" width="40" height="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" >
+      <image class="tech-icon" x="60" y="0" width="40" height="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" >
+      <image class="tech-icon" x="120" y="0" width="40" height="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    </a>
+    <a href="https://www.php.net/docs.php" >
+      <image class="tech-icon" x="180" y="0" width= "40" height= "40" href= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+    </a>
+    <a href= "https://isocpp.org/" target= "_blank">
+      <image class= "tech-icon" x= "240" y= "0" width= "40" height= "40" href= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+    </a>
+    <a href= "https://getbootstrap.com/docs/" target= "_blank">
+      <image class= "tech-icon" x= "300" y= "0" width= "40" height= "40" href= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+    </a>
+    <a href= "https://dev.mysql.com/doc/" target= "_blank">
+      <image class= "tech-icon" x= "360" y= "0" width= "40" height= "40"
+href= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+</a>
+<a href= "https://wordpress.org/documentation/" >
+<image class= "tech-icon"
+x =  420 
+y =  0 
+width =  40 
+height =  40 
+href =   https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg />
+</a>
+</g>
+</svg>
