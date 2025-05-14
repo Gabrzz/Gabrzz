@@ -1,59 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="300" viewBox="0 0 800 300">
-  <style>
-    @keyframes gradient {
-      0% { fill: #4F46E5; }
-      50% { fill: #EC4899; }
-      100% { fill: #4F46E5; }
-    }
-    .name-text {
-      font-family: 'Segoe UI', system-ui;
-      font-weight: 700;
-      animation: gradient 5s ease-in-out infinite;
-    }
-    .tech-icon {
-      transition: transform 0.3s ease;
-    }
-    .tech-icon:hover {
-      transform: translateY(-5px);
-    }
-  </style>
-  
-  <!-- Nome Principal -->
-  <text x="50%" y="40%" text-anchor="middle" font-size="48" class="name-text">
-    Gabriel Silva
-  </text>
+<!-- Incorporação do SVG do Nome -->
+<div align="center">
+  <img src="./name.svg" alt="Gabriel Silva" width="100%">
+</div>
 
-  <!-- Ícones de Tecnologias -->
-  <g transform="translate(100, 150)">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" >
-      <image class="tech-icon" x="0" y="0" width="40" height="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" >
-      <image class="tech-icon" x="60" y="0" width="40" height="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" >
-      <image class="tech-icon" x="120" y="0" width="40" height="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    </a>
-    <a href="https://www.php.net/docs.php" >
-      <image class="tech-icon" x="180" y="0" width= "40" height= "40" href= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-    </a>
-    <a href= "https://isocpp.org/" target= "_blank">
-      <image class= "tech-icon" x= "240" y= "0" width= "40" height= "40" href= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-    </a>
-    <a href= "https://getbootstrap.com/docs/" target= "_blank">
-      <image class= "tech-icon" x= "300" y= "0" width= "40" height= "40" href= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-    </a>
-    <a href= "https://dev.mysql.com/doc/" target= "_blank">
-      <image class= "tech-icon" x= "360" y= "0" width= "40" height= "40"
-href= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+## ���� Sobre Mim
+Desenvolvedor Full-Stack com expertise em múltiplas tecnologias front-end e back-end
+
+## �� Stack Principal
+<div align="center" style="margin: 40px 0;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" style="margin: 0 10px;">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" style="margin: 0 10px;">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" >
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" style="margin: 0 10px;">
+  </a>
+  <a href="https://www.php.net/docs.php" >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" style="margin: 0 10px;">
+  </a>
+  <a href="https://isocpp.org/" >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" style="margin: 0 10px;">
+  </a>
+  <a href="https://getbootstrap.com/docs/" >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" style= "margin:  0  10px;">
 </a>
-<a href= "https://wordpress.org/documentation/" >
-<image class= "tech-icon"
-x =  420 
-y =  0 
-width =  40 
-height =  40 
-href =   https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg />
+<a href= "https://dev.mysql.com/doc/" target= "_blank">
+<img src= "https://techstack-generator.vercel.app/mysql-icon.svg" width= "50" style= "margin:  0  10px;">
 </a>
-</g>
-</svg>
+<a href= "https://wordpress.org/documentation/" target= "_blank">
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width= "50" style= "margin:  0  10px;">
+</a>
+</div>
+
+## Projetos Destacados
+| Projeto | Tecnologias | Descrição |
+|---------|-------------|-----------|
+| [Projeto Exemplo](link) | HTML5, CSS3 | Landing page moderna com efeitos CSS |
+| [Sistema CRUD](link) | PHP, MySQL | Sistema completo de gerenciamento |
+
+## �� Atividade no GitHub
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula)](https://github.com/SEU_USERNAME)
+
+## Conecte-se Comigo
+[<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](link)
+[<img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:email)
