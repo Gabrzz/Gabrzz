@@ -44,5 +44,5 @@ Desenvolvedor Full-Stack com expertise em múltiplas tecnologias front-end e bac
 [![Estatísticas](https://github-readme-stats.vercel.app/api?username=gabrzz&show_icons=true&theme=dracula)](https://github.com/gabrzz)
 
 ## Conecte-se Comigo
-[<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]([link](https://www.linkedin.com/in/gabrzz/))
+[<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/gabrzz/)
 [<img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:06gabrielp@gmail.com)
