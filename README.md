@@ -1,5 +1,5 @@
 <!-- Incorporação do SVG do Nome -->
-<div align="center" style="padding-top: -50px;padding-bottom: -300px;margin-bottom:-150px">
+<div align="center" style="padding-top: -50px;padding-bottom: -300px;margin-bottom:-300px">
   <img src="./name.svg" alt="Gabriel Silva" width="100%">
 </div>
 
