@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel P.</h1>
 <h3 align="center">A passionate frontend developer from 🇧🇷</h3>
 
-- 🔭 I’m currently working on [n8n automations](aurabs.com.br)
+- 🔭 I’m currently working on [n8n automations](https://aurabs.com.br/)
 
 - 📫 How to reach me **06gabrielp@gmail.com**
 
