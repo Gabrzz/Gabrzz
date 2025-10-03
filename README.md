@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gabriel P.</h1>
+<!-- Incorporação do SVG do Nome -->
+<div align="center" style="padding-top: -50px;padding-bottom: -170px;">
+  <img src="./name.svg" alt="Gabriel Silva" width="100%">
+</div>
+
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate frontend developer from 🇧🇷</h3>
 
 - 🔭 I’m currently working on [n8n automations](https://aurabs.com.br/)
@@ -17,8 +22,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrzz&show_icons=true&locale=en&layout=compact" alt="gabrzz" /></p>
 
 
-<!-- Incorporação do SVG do Nome -->
-<div align="center" style="padding-top: -50px;padding-bottom: -170px;">
-  <img src="./name.svg" alt="Gabriel Silva" width="100%">
-</div>
 
