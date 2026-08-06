@@ -55,15 +55,58 @@ GABRIEL_AI_CORE = {
 
 ## ⚡ Tech Stack
 
-<div align="center">
-
-| Categoria & Origem | Tecnologias |
-| :--- | :--- |
-| **🌐 Web & Full Stack**<br><sub>🎓 *Técnico em Informática (IF)*</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" title="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" title="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" title="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" title="Node.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" alt="FastAPI" title="FastAPI" /> |
-| **📊 Análise Técnica & Econométrica**<br><sub>📈 *Faculdade de Economia*</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="Pandas" title="Pandas" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36" alt="NumPy" title="NumPy" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="36" alt="Matplotlib" title="Matplotlib" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="36" alt="Jupyter" title="Jupyter" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" title="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="36" alt="Supabase" title="Supabase" /> |
-| **⚙️ Automação & DevOps**<br><sub>💼 *Vivência em Startup*</sub> | <img src="https://cdn.simpleicons.org/n8n" height="36" alt="n8n" title="n8n" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" title="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" title="GitHub" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code" title="VS Code" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" title="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" title="Linux" /> |
-
-</div>
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="38%">Categoria & Origem</th>
+      <th align="left" width="62%">Tecnologias</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left">
+        <b>🌐 Web & Full Stack</b><br>
+        <sub>🎓 <i>Técnico em Informática (IF)</i></sub>
+      </td>
+      <td align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5" title="HTML5" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3" title="CSS3" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" title="JavaScript" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" title="TypeScript" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React" title="React" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js" title="Node.js" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b>📊 Análise Técnica & Econométrica</b><br>
+        <sub>📈 <i>Faculdade de Economia</i></sub>
+      </td>
+      <td align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" title="Python" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38" alt="Pandas" title="Pandas" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38" alt="NumPy" title="NumPy" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="38" alt="Matplotlib" title="Matplotlib" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="38" alt="Jupyter" title="Jupyter" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" title="PostgreSQL" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b>⚙️ Automação & DevOps</b><br>
+        <sub>💼 <i>Vivência em Startup</i></sub>
+      </td>
+      <td align="left">
+        <img src="https://cdn.simpleicons.org/n8n" height="38" alt="n8n" title="n8n" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="FastAPI" title="FastAPI" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="38" alt="Supabase" title="Supabase" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" title="Git" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="VS Code" title="VS Code" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" title="Docker" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
