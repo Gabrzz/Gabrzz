@@ -169,26 +169,6 @@ Turning data into clear insights 🚀
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gabrzz&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
-## 🐍 Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Gabrzz/Gabrzz/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 ## 🌎 Connect With Me
 
 <div align="center">
